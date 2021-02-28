@@ -1,0 +1,5 @@
+/.vs
+/InvoiceApi/bin
+/InvoiceApi/obj
+/InvoiceApiTest/obj
+/InvoiceApiTest/bin
