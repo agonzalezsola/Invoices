@@ -6,7 +6,7 @@ _There is a little app to manage Invoices_
 
 _You can view a live demo over at (https://alvaroinvoiceapp.azurewebsites.net)_
 
-_API server running at (https://alvaroinvoiceapi.azurewebsites.net/api)_
+_API server running at (https://alvaroinvoiceapi.azurewebsites.net/api/invoices)_
 
 _You can download and try it in your local machine if you want_
 
