@@ -1,10 +1,10 @@
 # Invoices
 
-_There is a little app to manage Invoices_
+_This is a little app to manage Invoices_
 
 ## Getting started
 
-_You can view a live demo over at (https://alvaroinvoiceapp.azurewebsites.net)_
+_You can view a live demo at (https://alvaroinvoiceapp.azurewebsites.net)_
 
 _API server running at (https://alvaroinvoiceapi.azurewebsites.net/api/invoices)_
 
@@ -12,9 +12,9 @@ _You can download and try it in your local machine if you want_
 
 ## Backend
 
-_Coded in C# with .Net Core. There offer an REST API to allow basic CRUD operations. Thanks to [ExchangeRate-Api v6](https://www.exchangerate-api.com/) the API allow Invoice exchange to the desire currency_
+_Coded in C# with .Net Core. It offers a REST API to allow basic CRUD operations. Thanks to [ExchangeRate-Api v6](https://www.exchangerate-api.com/) the API allow Invoice exchange to the desire currency_
 
-_There is an example of the Invoice structure_
+_This is an example of the Invoice structure_
 
 ```
 {
@@ -28,9 +28,9 @@ _There is an example of the Invoice structure_
 ```
 
 _Some clarifications_
-* Not authentication required.
+* No authentication required.
 * The API allow CORS. 
-* Data is not persistent, there is store in memory for testing purposes only.
+* Data is not persistent, it is store in memory for testing purposes only.
 
 ## Frontend
 
